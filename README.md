@@ -1,3 +1,3 @@
 # Welcome to Third Place
 
-See it [live here](https://thirdplaceapp.com/)
+See a preview [live here](https://thirdplaceappdev.com/)

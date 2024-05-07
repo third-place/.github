@@ -4,6 +4,4 @@ Third place is an open source social network. The code that powers this site is 
 
 While Third place is in closed beta, invite codes are required for signing up.
 
-See it [live here](https://thirdplaceapp.com/).
-
-We have a [Backstage](https://backstage.io/) deployment [here](https://backstage.thirdplaceapp.com/).
+See a preview [live here](https://thirdplaceappdev.com/).
